@@ -1,13 +1,5 @@
 package com.czh.multi.thread.t11;
 
-/**
- * 在沉睡中停止
- * 
- * @author czh
- * @crete_time 2016年3月3日 下午2:13:35
- * @version 1.0
- * 
- */
 public class MyThread extends Thread {
 
 	@Override

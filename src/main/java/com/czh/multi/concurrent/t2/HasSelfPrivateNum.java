@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.t2;
 
-/**
- * 实体变量 线程不安全
- * 
- * @author czh
- * @crete_time 2016年3月4日 下午3:50:51
- * @version 1.0
- * 
- */
 public class HasSelfPrivateNum {
 
 	private int num = 0;

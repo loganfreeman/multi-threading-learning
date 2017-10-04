@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.synLock2;
 
-/**
- * 可重入锁也支持在父子类中继承
- * 
- * @author czh
- * @crete_time 2016年3月7日 上午11:45:11
- * @version 1.0
- * 
- */
 public class Main {
 	public int i = 10;
 

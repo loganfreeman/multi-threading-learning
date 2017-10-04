@@ -1,13 +1,5 @@
 package com.czh.multi.thread.t15;
 
-/**
- * 这个容易形成独占锁
- * 
- * @author czh
- * @crete_time 2016年3月3日 下午7:19:09
- * @version 1.0
- * 
- */
 public class SynchronizedObject {
 
 	synchronized public void printString() {

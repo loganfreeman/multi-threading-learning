@@ -1,12 +1,5 @@
 package com.czh.multi.thread.t2;
 
-/**
- * 
- * @author czh
- * @crete_time 2016年3月1日 下午5:27:27
- * @version 1.0
- * 
- */
 public class Run {
   public static void main(String[] args) {
 

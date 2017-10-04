@@ -1,13 +1,5 @@
 package com.czh.multi.socket.t6;
 
-/**
- * 减法
- * 
- * @author czh
- * @create_time 2016年7月11日 下午1:50:23
- * @version 1.0
- * 
- */
 public class Sub {
 	private String lock;
 

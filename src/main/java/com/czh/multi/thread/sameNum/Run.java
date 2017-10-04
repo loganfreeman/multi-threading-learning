@@ -1,12 +1,5 @@
 package com.czh.multi.thread.sameNum;
 
-/**
- * 
- * @author czh
- * @crete_time 2016年3月1日 下午7:07:37
- * @version 1.0
- * 
- */
 public class Run {
   public static void main(String[] args) {
     MyThread my = new MyThread();

@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.t12;
 
-/**
- * 讨论一下 静态同步synchronized方法与synchronized(this) 代码块
- * 
- * @author czh
- * @crete_time 2016年5月11日 下午1:59:24
- * @version 1.0
- * 
- */
 public class Service {
 	synchronized public static void printA() {
 		try {

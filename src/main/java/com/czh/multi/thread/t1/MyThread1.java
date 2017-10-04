@@ -1,13 +1,5 @@
 package com.czh.multi.thread.t1;
 
-/**
- * 自定义一个线程类
- * 
- * @author czh
- * @crete_time 2016年3月1日 下午3:46:32
- * @version 1.0
- * 
- */
 public class MyThread1 extends Thread{
   @Override
   public void run() {

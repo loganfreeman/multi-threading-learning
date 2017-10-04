@@ -1,13 +1,5 @@
 package com.czh.multi.socket.t7;
 
-/**
- * 生产者
- * 
- * @author czh
- * @create_time 2016年7月11日 下午4:56:31
- * @version 1.0
- * 
- */
 public class P {
 	private String lock;
 

@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.throwExceptionNoLock;
 
-/**
- * 出现异常，锁自动释放
- * 
- * @author czh
- * @crete_time 2016年3月7日 下午4:27:24
- * @version 1.0
- * 
- */
 public class Service {
 	synchronized public void testMethod() {
 		if ("a".equals(Thread.currentThread().getName())) {

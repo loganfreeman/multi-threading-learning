@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.t1;
 
-/**
- * 方法内部的变量为线程安全
- * 
- * @author czh
- * @crete_time 2016年3月4日 下午3:18:18
- * @version 1.0
- * 
- */
 public class HasSelfPrivateNum {
 	public void add(String username) {
 		try {

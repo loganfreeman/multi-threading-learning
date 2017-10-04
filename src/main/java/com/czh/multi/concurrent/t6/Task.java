@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.t6;
 
-/**
- * synchronized方法的弊端
- * 
- * @author czh
- * @crete_time 2016年3月29日 上午11:11:47
- * @version 1.0
- * 
- */
 public class Task {
 
 	private String getData1;

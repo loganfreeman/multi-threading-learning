@@ -1,13 +1,5 @@
 package com.czh.multi.concurrent.t5;
 
-/**
- * 两个方法
- * 
- * @author czh
- * @crete_time 2016年3月5日 下午4:13:05
- * @version 1.0
- * 
- */
 public class MyObject {
 
 	synchronized public void methodA() {
